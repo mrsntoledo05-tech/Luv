@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>For You</title>
-<style>
-body{
-background:linear-gradient(135deg,#0f0f0f,#1f1f1f);
-font-family:Georgia,serif;
-color:white;
-margin:0;
-display:flex;
-justify-content:center;
-align-items:center;
-min-height:100vh;
-padding:20px;
-}
-.box{
-max-width:850px;
-background:rgba(255,255,255,0.05);
-padding:30px;
-border-radius:20px;
-backdrop-filter:blur(10px);
-box-shadow:0 0 20px rgba(255,255,255,0.08);
-}
-h1{text-align:center;}
-button{
-display:block;
-margin:auto;
-padding:12px 24px;
-font-size:18px;
-border:none;
-border-radius:10px;
-cursor:pointer;
-}
 
 Love,
 

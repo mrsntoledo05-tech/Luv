@@ -33,17 +33,7 @@ border:none;
 border-radius:10px;
 cursor:pointer;
 }
-#msg{display:none;line-height:1.8;margin-top:20px;white-space:pre-line;}
-</style>
-</head>
-<body>
-<div class="box">
-<h1>A Message From My Heart</h1>
-<button onclick="document.getElementById('msg').style.display='block';this.style.display='none';">
-Open Message
-</button>
 
-<div id="msg">
 Love,
 
 I never thought na darating tayo sa point na kailangan kong magsulat ng ganitong mensahe para sa'yo.
